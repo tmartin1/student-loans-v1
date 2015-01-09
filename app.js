@@ -17,8 +17,7 @@ var results = {
     ibr:[],
     paye:[],
     icr:[]
-}
-
+};
 
 var povertyBaseline = 0;
 var povertyAdjustment = 0;
@@ -30,7 +29,6 @@ var povertyBaselineAK = 14580;
 var povertyAdjustmentAK = 5080;
 var povertyBaselineHI = 13420;
 var povertyAdjustmentHI = 4670;
-
 
 function addRow(tableID) {
     //adds an additional row to allow for more student loans
