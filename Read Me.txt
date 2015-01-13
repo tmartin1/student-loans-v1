@@ -1,0 +1,3 @@
+This is a simple application that I made back when I was first learning the basics of Javascript. While most of the features function as intended (the chart and graph display were not finished), a quick glance at the code will show how little I knew back then.
+
+Hopefully, over the next few weeks, I'll reimplement this with backbone as well as angular. The primary purpose of this is simply as an educational excursive for myself to work though some different frameworks and see how they compare.
